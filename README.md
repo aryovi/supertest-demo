@@ -4,27 +4,18 @@ This is one small example to use the [supertest](https://www.npmjs.com/package/s
 
 ## How to run this app?
 
-/*:
-Command to install the node modules
-
+### Command to install
+````
   npm install
+````
 
-*/
-
-/*:
-
-command for running the application
-
+### Command for running the application
+````
   npm dev
+  ````
 
-*/
-
-/** 
-Command for running the tests
-
+### Command for running the tests
 ````
   npm run test
 ````
-
-*/
 
