@@ -1,11 +1,24 @@
 # supertest-demo
-## Aplication Description
-This is a small example to use the supertest node module and mocha to do API tests
+## Overview
+This is one small example to use the [supertest](https://www.npmjs.com/package/supertest) node module and mocha to test an API
 
-## Run Application
-How to use?
+## How to run this app?
 
-npm install to install the node modules
-npm dev   //command for running the application
-npm run test   // command for running the tests
+/*:
+Command to install the node modules
+
+npm install 
+*/
+
+/*:
+command for running the application
+
+npm dev   
+*/
+
+/*:
+Command for running the tests
+
+npm run test
+*/
 
