@@ -7,18 +7,24 @@ This is one small example to use the [supertest](https://www.npmjs.com/package/s
 /*:
 Command to install the node modules
 
-npm install 
+  npm install
+
 */
 
 /*:
+
 command for running the application
 
-npm dev   
+  npm dev
+
 */
 
-/*:
+/** 
 Command for running the tests
 
-npm run test
+````
+  npm run test
+````
+
 */
 
