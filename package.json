@@ -1,0 +1,21 @@
+{
+  "name": "supertestdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.0",
+    "morgan": "^1.10.0",
+    "supertest": "^6.1.3"
+  },
+  "scripts": {
+    "test": "mocha tests --exit",
+    "dev": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
